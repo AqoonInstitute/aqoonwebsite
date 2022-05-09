@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   display: flex;
 }
 .img-fluid {
-  height: 100px;
+  height: 130px;
   width: 100px;
 }
 #header .logo h1 {
@@ -393,8 +393,8 @@ section {
   height:300px;
 }
 .bgimg1 {
-  width: 400px;
-  height: 300px;
+  width: 500px;
+  height: 400px;
   margin-top: 20%;
   float: right;
 }
