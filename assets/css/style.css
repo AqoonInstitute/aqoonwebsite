@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 90vh;
+  height: 83.5vh;
   /* background: url("../img/bg-1.png") top center; */
   background-size: cover;
   position: relative;
@@ -386,22 +386,4 @@ section {
 }
 #footer .credits a {
   color: #72a8bf;
-}
-.bgimg{
-  width: 400px;
-  height:300px;
-}
-.bgimg1 {
-    width: 400px;
-    min-height: 300px;
-    padding-bottom: 10px;
-    height: auto !important;
-    height: 100%;
-    margin: 0 auto;
-    float: right;
-    margin-top: 19.5%;
-    /** Removed the negative bottom margin **/
-    overflow: hidden;
-    background:#0d182d;
-    overflow: hidden;
 }
